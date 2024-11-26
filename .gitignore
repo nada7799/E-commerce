@@ -41,7 +41,7 @@ lerna-debug.log*
 .env.test.local
 .env.production.local
 .env.local
-
+e-commerce/environment/
 # temp directory
 .temp
 .tmp
